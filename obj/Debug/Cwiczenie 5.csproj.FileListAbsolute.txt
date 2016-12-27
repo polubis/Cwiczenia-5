@@ -1,0 +1,6 @@
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie 5\Cwiczenie 5\bin\Debug\Cwiczenie 5.exe.config
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie 5\Cwiczenie 5\bin\Debug\Cwiczenie 5.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie 5\Cwiczenie 5\bin\Debug\Cwiczenie 5.pdb
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie 5\Cwiczenie 5\obj\Debug\Cwiczenie 5.csprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie 5\Cwiczenie 5\obj\Debug\Cwiczenie 5.exe
+C:\Users\bialy\Desktop\Nowy folder\Cwiczenie 5\Cwiczenie 5\obj\Debug\Cwiczenie 5.pdb
